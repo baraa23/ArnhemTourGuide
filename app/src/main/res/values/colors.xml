@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#f67b0000</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#e2000000</color>
+
+    <!-- Background color for app -->
+    <color name="list_background">#d8000000</color>
+
+    <!-- Text color of the places name and addresses -->
+    <color name="text_color">#FFFFFF</color>
+
+    <!-- Background color for Tabs -->
+    <color name="tab_color_back">#480000</color>
+</resources>

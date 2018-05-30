@@ -1,0 +1,51 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Arnhem Tour Guide</string>
+
+    <!-- Category name for MUSEUMS [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for SIGHTS & LANDMARKS [CHAR LIMIT=20] -->
+    <string name="category_sights">Sights &amp; Landmarks</string>
+
+    <!-- Category name for RESTAURANTS [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for NATURE & PARKS [CHAR LIMIT=20] -->
+    <string name="category_nature">Nature &amp; Parks</string>
+
+    <!-- STRINGS FOR THE PLACES AND ADDRESSES -->
+    <string name="park_sonsbeek">Park Sonsbeek</string>
+    <string name="sonsbeek_address">Sonsbeek, Arnhem, The Netherlands</string>
+    <string name="royal_burgers_zoo">Royal Burgers\' Zoo</string>
+    <string name="address_royal_burgers">Antoon van Hooffplein 1, 6816 SH Arnhem, The Netherlands</string>
+    <string name="musispark">Musispark</string>
+    <string name="address_musispark">Velperbinnensingel, 6811 BM Arnhem, The Netherlands</string>
+    <string name="molenplaats_sonsbeek">Molenplaats Sonsbeek</string>
+    <string name="address_molenplaats">Zijpendaalseweg 24a, 6814 CL Arnhem, The Netherlands</string>
+    <string name="graave">Graave</string>
+    <string name="graave_address">Kleine Oord 83, 6811 HZ Arnhem, The Netherlands</string>
+    <string name="karakter">Restaurant Karakter</string>
+    <string name="address_karakter">Stationsplein 10, 6811 KG Arnhem, The Netherlands</string>
+    <string name="la_rusticana">La Rusticana</string>
+    <string name="address_la_rusticana">Bakkersstraat 58, 6811 EJ Arnhem, The Netherlands</string>
+    <string name="batavia">Batavia</string>
+    <string name="address_batavia">Willemsplein 31, 6811 KC Arnhem, The Netherlands</string>
+    <string name="netherlands_open_air_museum">Netherlands Open-Air Museum and National Heritage Museum</string>
+    <string name="address_netherlands_open_air">Hoeferlaan 4, 6816 SG Arnhem, The Netherlands</string>
+    <string name="war_museum">Arnhem War Museum</string>
+    <string name="address_war_museum">Kemperbergerweg 780, 6816 RX Arnhem, The Netherlands</string>
+    <string name="bronbeek">Museum Bronbeek</string>
+    <string name="address_bronbeek">Velperweg 147, 6824 MB Arnhem, The Netherlands</string>
+    <string name="nederlands_watermuseum">Nederlands Watermuseum</string>
+    <string name="address_watermuseum">Zijpendaalseweg 26&#8211;28, 6814 CL Arnhem, The Netherlands</string>
+    <string name="john_frost_bridge">The John Frost Bridge</string>
+    <string name="address_john_frost">Groene Weide, Arnhem, The Netherlands</string>
+    <string name="eusebius_church">Eusebius Church</string>
+    <string name="address_eusebius">Kerkplein 1, 6811 EB Arnhem, The Netherlands</string>
+    <string name="arnhem_centraal">Arnhem Central Station</string>
+    <string name="address_arnhem_centraal">Stationsplein, Arnhem, The Netherlands</string>
+    <string name="feestaardvarken">Feestaardvarken</string>
+    <string name="address_feestaardvarken">Bartokpark, Arnhem, The Netherlands</string>
+
+</resources>
